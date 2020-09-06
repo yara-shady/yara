@@ -1,0 +1,170 @@
+
+*{margin: 0; padding: 0;}
+header{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)) ,url(../images/my\ favorite\ coffee\ shops\ in\ nyc\ _\ This\ Time\ Tomorrow.png);
+        height: 98vh; background-position: center;
+        background-size: cover;padding: 10px;
+
+}
+header img{float: left; width: 150px; padding-left: 6px;}
+.nav ul{list-style: none;}
+.nav ul li{
+    float: right;
+}
+.nav ul li a{
+   
+    display:flex;
+    text-decoration: none;
+    color: #ddd;
+    padding: 15px;
+    text-transform: uppercase;
+    font-size: 17px;
+}
+.nav ul li a:hover{text-decoration: underline; color: white;}
+.head{
+text-align: center;
+}
+.head h1{
+    font-size: 60px; font-family: sans-serif;
+    font-weight: bold;
+text-transform: capitalize;
+   color: white;
+   padding-top: 13%;
+}
+.head p{
+    color: white; font-size: 20px;
+}
+.head a{
+    border: solid white 1px;
+      position: absolute; 
+      padding: 15px 20px;
+      top: 50%;
+      right: 45%;  left: 45%;
+      font-size: 19px;
+    font-weight: bold;
+    text-decoration: none; color: white;
+}
+section{margin-top: 50px; text-align: center;}
+
+ h2{
+  font-size: 40px; text-transform: capitalize;
+}
+.hr{
+    width: 130px; height: 3px;
+   background-color: #997650; margin: auto;
+   color: #997650;
+   margin-top: 10px;
+   margin-bottom: 15px;
+}
+.left{margin-bottom: 40px; margin-top: 10px;}
+.left h3 {
+   text-align: right; text-transform: capitalize;
+   margin-bottom: 10px;
+}
+.left p{text-align: justify;}
+  
+.left img{float: right;
+   width: 60px;
+  margin: 12px 20px;
+}
+.right{margin-bottom: 40px; margin-top: 10px;}
+.right h3{
+    text-align: left; text-transform: capitalize;
+    margin-bottom: 10px;
+}
+.right p{text-align: justify;}
+.right img{float: left;
+    width: 60px;
+    margin: 12px 20px;
+}
+
+
+.price{display: flex;}
+
+.hr1{
+    width: 350px; height: 0px;
+     margin-top: 16px;
+}
+
+
+.hr2{
+    width: 340px; height: 0px;
+     margin-top: 16px;
+}
+
+
+.hr3{
+    width: 205px; height: 0px;
+     margin-top: 16px;
+}
+
+
+.hr4{
+    width: 290px; height: 0px;
+     margin-top: 16px;
+}
+
+.hr6{
+    width: 325px; height: 0px;
+     margin-top: 16px;
+}
+
+
+.hr7{
+    width: 254px; height: 0px;
+     margin-top: 16px;
+}
+
+
+.hr8{
+    width: 260px; height: 0px;
+     margin-top: 16px;
+}
+
+
+.hr9{
+    width: 260px; height: 0px;
+     margin-top: 16px;
+}
+
+
+.hr10{
+    width: 277px; height: 0px;
+     margin-top: 16px;
+}
+
+
+.hr11{
+    width: 286px; height: 0px;
+     margin-top: 16px;
+}
+
+
+.hr12{
+    width: 212px; height: 0px;
+     margin-top: 16px;
+}
+
+
+.price h3{font-size: 20px;}
+.price p{
+    font-size: 20px; font-weight: bold;
+}
+.desc{display: flex;}
+.desc p{color: #997650;}
+span{border: solid white 1px; background-color: #997650; padding: 4px 16px; margin-left: 220px;}
+
+.sec4{background-color: #eae7de; padding: 10px;}
+
+footer{
+    background-color: black;
+    color: #ddd;
+    padding: 20px;
+}
+
+i{padding: 6px; font-size: 20px; color:#997650; }
+.items{
+   text-align: center;
+}
+
+
